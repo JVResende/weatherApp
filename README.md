@@ -14,7 +14,7 @@ Weather app, where the user have to sign in using a valid email and password, th
 ### - Home (Search for city weather)
 
 ![home1](https://user-images.githubusercontent.com/102267210/221326314-3cafddf3-c772-432a-86bd-e42f4f95cdfc.PNG)
-![home2](https://user-images.githubusercontent.com/102267210/221326316-3448bbb3-0728-4a8a-821d-2b5f6b07dc33.PNG)
+![home2](https://user-images.githubusercontent.com/102267210/221327620-67bcf939-a7d8-4503-b857-e7188b448d43.PNG)
 
 ## ⚙️ Setup
 
@@ -22,8 +22,14 @@ Clone down this repository. You will need node and npm installed globally on you
 
 - Installation:
 
+If you don' have expo installed:
+
 ```
   $ npm install --global expo-cli
+```
+Then:
+
+```
   $ npm install 
 ```
 
