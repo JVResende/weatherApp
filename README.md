@@ -33,7 +33,7 @@ Clone down this repository. You will need node and npm installed globally on you
   $ npm start
 ```
 
-Now just choose wich device you will test the app.
+Now just choose which device you will test the app.
 
 ## 🛠 Technologies
 
