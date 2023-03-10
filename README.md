@@ -2,7 +2,7 @@
 
 ## 📄 About
 
-Weather app, where the user have to sign in using a valid email and password, then go to the home page and search for the current weather off any city in the world. 
+Weather app, where the user has to sign in using a valid email and password, then go to the home page and search for the current weather off any city in the world. 
 
 ## 📱 Screens
 
